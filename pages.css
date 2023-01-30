@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.conference-image {
+    padding: 15px;
+    margin: 10px;
+    width: 95vw;
+}
+
+.conference-text-container {
+    padding: 15px;
+}
+
+
+.main-heading {
+    color: #183b56;
+    font-size: 35px;
+    font-weight: bold;
+    padding: 10px;
+    text-align: center;
+}
+
+.description {
+    color: #5a7184;
+    font-size: 19px;
+    text-align: center;
+}
+
+.button {
+    color: #ffffff;
+    background-color: #1e45c7;
+    height: 36px;
+    width: 100px;
+    border-radius: 5px;
+    border-width: 0px;
+}
+
+.sub-heading {
+    color: #183b56;
+    font-size: 20px;
+    margin: 20px;
+
+
+}
+
+.youtube-video {
+    padding: 15px;
+    margin: 10px;
+    width: 325px;
+}
+
+.things-conference-heading {
+    color: #183b56;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 5px;
+    text-align: center;
+}
+
+.things-conference-description {
+    color: #5a7184;
+    font-size: 15px;
+    text-align: center;
+}
+
+.conference-sub-container {
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.conference-heading {
+    font-family: "roboto";
+    color: #183b56;
+    font-size: 24px;
+    font-weight: bold;
+
+}
+
+.conference-description {
+    font-family: "roboto";
+    color: #5a7184;
+    font-size: 16px;
+    padding: 10px;
+}
